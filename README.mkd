@@ -2,7 +2,7 @@ Tested only on Mac and Ubuntu.
 
 # install
 1. clone this repo and navigate to the the directory and `pip install -e .`
-2. enter `chat` to start
+2. enter `chatgpt` to start
 
 # features(tested only on Mac)
 1. save all your logs in ./logs
