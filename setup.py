@@ -19,6 +19,7 @@ setup(
     ],
     install_requires=[
         "rich",
+        "prompt-toolkit",
         "openai",
     ],
     classifiers=[
@@ -28,7 +29,7 @@ setup(
         "Programming Language :: Python :: 3.10",
     ],
     entry_points={"console_scripts": [
-        "facilitator=writing_facilitator.writing_facilitator:main",
-        "chat=writing_facilitator.writing_facilitator:main",
+        "wfacilitator=writing_facilitator.writing_facilitator:main",
+        "chatgpt=writing_facilitator.writing_facilitator:main",
         ]},
 )

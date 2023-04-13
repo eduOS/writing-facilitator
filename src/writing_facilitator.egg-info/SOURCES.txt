@@ -1,4 +1,3 @@
-README.md
 setup.py
 src/writing_facilitator/__init__.py
 src/writing_facilitator/logger.py
