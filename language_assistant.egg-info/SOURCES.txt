@@ -1,0 +1,14 @@
+README.md
+setup.py
+language_assistant.egg-info/PKG-INFO
+language_assistant.egg-info/SOURCES.txt
+language_assistant.egg-info/dependency_links.txt
+language_assistant.egg-info/entry_points.txt
+language_assistant.egg-info/requires.txt
+language_assistant.egg-info/top_level.txt
+practice_writing/__init__.py
+practice_writing/language_assistant.py
+practice_writing/logger.py
+practice_writing/my_utils.py
+practice_writing/prompts.py
+practice_writing/version.py

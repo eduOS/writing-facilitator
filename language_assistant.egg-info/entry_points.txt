@@ -1,0 +1,2 @@
+[console_scripts]
+lassistant = practice_writing.language_assistant:main

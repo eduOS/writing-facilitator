@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/practice_writing/__init__.py
+src/practice_writing/language_assistant.py
+src/practice_writing/logger.py
+src/practice_writing/my_utils.py
+src/practice_writing/prompts.py
+src/practice_writing/settings.py
+src/practice_writing/version.py
+src/practice_writing.egg-info/PKG-INFO
+src/practice_writing.egg-info/SOURCES.txt
+src/practice_writing.egg-info/dependency_links.txt
+src/practice_writing.egg-info/entry_points.txt
+src/practice_writing.egg-info/requires.txt
+src/practice_writing.egg-info/top_level.txt

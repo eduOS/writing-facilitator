@@ -1,0 +1,3 @@
+[console_scripts]
+chat = writing_facilitator.writing_facilitator:main
+facilitator = writing_facilitator.writing_facilitator:main

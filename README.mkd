@@ -1,0 +1,14 @@
+# install
+1. clone this repo and navigate to the the directory and `pip install -e .`
+2. enter `chat` to start
+
+# features(tested only on Mac)
+1. save all your logs in ./logs
+2. list roles by entering `/roles` to switch between different roles
+3. indexing all your inputs and start from anywhere you like
+3. commands
+  - `/edit INDEX`: do not save history and start from any index, just like that we do on the official page
+  - `/start` save the history and start as normal user and assistant
+  - `/restart` save the history and start as the previous role
+  - `/actas KEYWORDS` enter the role or the index from the output of `/roles` command
+  - `/startfrom INDEX` save the history and start from the index 

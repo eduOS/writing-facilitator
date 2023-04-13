@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/writing_facilitator/__init__.py
+src/writing_facilitator/logger.py
+src/writing_facilitator/my_utils.py
+src/writing_facilitator/prompts.py
+src/writing_facilitator/settings.py
+src/writing_facilitator/version.py
+src/writing_facilitator/writing_facilitator.py
+src/writing_facilitator.egg-info/PKG-INFO
+src/writing_facilitator.egg-info/SOURCES.txt
+src/writing_facilitator.egg-info/dependency_links.txt
+src/writing_facilitator.egg-info/entry_points.txt
+src/writing_facilitator.egg-info/requires.txt
+src/writing_facilitator.egg-info/top_level.txt

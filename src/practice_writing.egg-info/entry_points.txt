@@ -1,0 +1,3 @@
+[console_scripts]
+chat = practice_writing.language_assistant:main
+lassistant = practice_writing.language_assistant:main

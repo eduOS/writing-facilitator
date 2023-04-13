@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: writing-facilitator
+Version: 0.2.0
+Summary: A chatGPT writing facilitator on the terminal
+Author: Lerner Zhang
+Author-email: lerner.zhang@gmail.com
+Keywords: artificial intelligence,openai,language learning,writing
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
