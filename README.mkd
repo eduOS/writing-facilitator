@@ -1,3 +1,5 @@
+Tested only on Mac and Ubuntu.
+
 # install
 1. clone this repo and navigate to the the directory and `pip install -e .`
 2. enter `chat` to start
@@ -12,3 +14,6 @@
   - `/restart` save the history and start as the previous role
   - `/actas KEYWORDS` enter the role or the index from the output of `/roles` command
   - `/startfrom INDEX` save the history and start from the index 
+
+# TODO
+1. 
